@@ -1,4 +1,4 @@
-# Jameslittle230 Stork-tap
+# [Homebrew](https://brew.sh) tap for [Stork](https://github.com/jameslittle230/stork)
 
 ## How do I install these formulae?
 `brew install jameslittle230/stork-tap/<formula>`
