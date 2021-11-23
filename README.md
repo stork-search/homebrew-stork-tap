@@ -1,14 +1,14 @@
 # [Homebrew](https://brew.sh) tap for [Stork](https://github.com/jameslittle230/stork)
 
-## How do I install these formulae?
-`brew install jameslittle230/stork-tap/<formula>`
+## How do I install Stork?
+`brew install stork-search/homebrew-stork-tap/stork`
 
-Or `brew tap jameslittle230/stork-tap` and then `brew install <formula>`.
+Or `brew tap stork-search/homebrew-stork-tap` and then `brew install stork`.
 
 Or install via URL (which will not receive updates):
 
 ```
-brew install https://raw.githubusercontent.com/jameslittle230/homebrew-stork-tap/master/Formula/<formula>.rb
+brew install https://raw.githubusercontent.com/jameslittle230/homebrew-stork-tap/master/Formula/stork.rb
 ```
 
 ## Documentation
