@@ -1,8 +1,8 @@
 class Stork < Formula
   desc "Impossibly fast web search, made for static sites."
   homepage "https://stork-search.net"
-  url "https://github.com/jameslittle230/stork/archive/v1.2.1.tar.gz"
-  sha256 "c6e780f171ffe02a0d50f28b0fa1b9efcbb315ea60839125ebebd7120e2f5a30"
+  url "https://github.com/jameslittle230/stork/archive/v1.3.0.tar.gz"
+  sha256 "e0807832cb826fef4771f5e31bfb6abee894afea48de19c355904e1615988721"
 
   depends_on "rust" => :build
 
