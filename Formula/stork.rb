@@ -7,7 +7,7 @@ class Stork < Formula
   depends_on "rust" => :build
 
   def install
-    system "cargo", "install", "--locked", "--root", prefix, "--path", "."
+    system "cargo", "install", "--locked", "--root", prefix, "--path", "stork-cli"
   end
 
   test do
